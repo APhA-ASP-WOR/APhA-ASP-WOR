@@ -8,8 +8,7 @@ permalink: /
 
 ## Presentations
 
-Presentation 1
-
+[Presentation 1](/projects/project_1)
 ## Welcome to GitHub Pages
 
 TEST TEST TEST
