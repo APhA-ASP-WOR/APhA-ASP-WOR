@@ -19,4 +19,4 @@ permalink: /
 - [asthma stuff](https://user-images.githubusercontent.com/74032837/98880484-d5a34800-2455-11eb-80b3-26c7e0cec190.png)
 - [nutrition stuff](https://user-images.githubusercontent.com/74032837/98884857-ef955880-245e-11eb-83e3-7df3f9ff8c7e.png)
 - [Fact or fiction?](https://user-images.githubusercontent.com/74032837/98881529-39c70b80-2458-11eb-97d8-f5e57b51ae18.PNG)
-- [Womens Health](https://user-images.githubusercontent.com/74032837/98884857-ef955880-245e-11eb-83e3-7df3f9ff8c7e.png)
+- [Womens Health](https://user-images.githubusercontent.com/74032837/98885578-4b141600-2460-11eb-9a3e-a22869a156b2.png)
