@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Liam Weston"
+permalink: /
+---
 
 <img src="https://lh3.googleusercontent.com/proxy/i9bmWI6C9wMz4aUp3l-xz8AHYukMiU3_TLfHeoEmkotLnGzWGhJ-WQIUCXRcgPyaQo7rIWwbYBbUVNNlCo4fE950epO_Jf0ry47iK1CFlhawTSj8lx017GOI3joaJJi9XMQ8qHgV-m4LqfNSbp9Yf9U" alt="hi" class="inline"/>
 
