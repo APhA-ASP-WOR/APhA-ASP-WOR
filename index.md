@@ -16,4 +16,4 @@ permalink: /
 - [medicine safety](https://user-images.githubusercontent.com/74032837/98880012-c7086100-2454-11eb-8cde-b80ce1cbc707.png)
 - [asthma stuff](https://user-images.githubusercontent.com/74032837/98880484-d5a34800-2455-11eb-80b3-26c7e0cec190.png)
 - [nutrition stuff](https://user-images.githubusercontent.com/74032837/98880825-a3deb100-2456-11eb-85f7-dde08845a95f.png)
-- [Presentation 6](/projects/project6)
+- [Fact or fiction?](https://user-images.githubusercontent.com/74032837/98881529-39c70b80-2458-11eb-97d8-f5e57b51ae18.PNG)
