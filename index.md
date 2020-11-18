@@ -6,7 +6,7 @@ description: "Liam Weston"
 permalink: /
 ---
 
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.pharmacistsprovidecare.com%2Fapha-asp-logos-downloading&psig=AOvVaw0tGiVMZcktk6HFKyUiKNuG&ust=1605826253368000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCnnI2Xje0CFQAAAAAdAAAAABAD" class="inline"/>
+<img src="https://lh3.googleusercontent.com/proxy/qhMilSmXGadp5Ay8V_am5Ps3d4I6MwnRYKbPjFbhid8g6rxcpHsSes54DmLKhMIK1uy7TqWI0LGc4z8Ax1eODvLmQK7aYq1pJ6Mf3pebgyPhROyKjQhG3uK5bjGTq6pj9MQXjsErD0M" class="inline"/>
 
 Welcome to MCPHS-University APhA-ASP website! Click on each link to learn more about each operation's initiative. 
 
